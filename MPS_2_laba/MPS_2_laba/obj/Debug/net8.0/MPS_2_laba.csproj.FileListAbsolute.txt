@@ -1,0 +1,14 @@
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\bin\Debug\net8.0\MPS_2_laba.exe
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\bin\Debug\net8.0\MPS_2_laba.deps.json
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\bin\Debug\net8.0\MPS_2_laba.runtimeconfig.json
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\bin\Debug\net8.0\MPS_2_laba.dll
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\bin\Debug\net8.0\MPS_2_laba.pdb
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.dll
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\refint\MPS_2_laba.dll
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.pdb
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\MPS_2_laba.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\MPS_2_laba\MPS_2_laba\obj\Debug\net8.0\ref\MPS_2_laba.dll
